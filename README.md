@@ -1,0 +1,3 @@
+# Unhandled Exception in Asynchronous Dart Operation
+
+This repository demonstrates a common error in asynchronous Dart programming: improper handling of exceptions within `async` functions. The `bug.dart` file shows the original code with flawed exception handling. The solution, in `bugSolution.dart`, provides improved exception management, ensuring better error handling and program stability.  This allows for more robust application behavior and improved debugging capabilities.
